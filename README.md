@@ -27,8 +27,9 @@ This repository contains two simple scripts designed to collect and display basi
 1. Open a terminal and navigate to the script's directory.
 
 2. Make the script executable (only needed once): 
-'chmod +x client-device-information.sh'
+`chmod +x client-device-information.sh`
 
 3. Run the script:
-'./client-device-information.sh'
+`./client-device-information.sh`
 
+  
